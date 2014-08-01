@@ -11,7 +11,7 @@ destination:      _gh_pages
 host:             0.0.0.0
 port:             9001
 baseurl:          /
-url:              http://http://snowdj.github.io/bootstrap
+url:              http://snowdj.github.io/bootstrap
 encoding:         UTF-8
 
 # Custom vars
@@ -24,8 +24,8 @@ download:
   dist:           https://github.com/twbs/bootstrap/releases/download/v3.2.0/bootstrap-3.2.0-dist.zip
   sass:           https://github.com/twbs/bootstrap-sass/archive/v3.2.0.tar.gz
 
-blog:             http://http://snowdj.github.io/bootstrap
-expo:             http://http://snowdj.github.io/bootstrap
+blog:             http://snowdj.github.io/bootstrap
+expo:             http://snowdj.github.io/bootstrap
 
 cdn:
   css:            //maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css
